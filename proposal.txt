@@ -1,0 +1,1 @@
+We used a data set of happiness ranking by country as well as an international soccer teams' rankings dataset in order to see if a countries happiness rank correlates with how well their team does.
